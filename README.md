@@ -530,3 +530,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [io.github.forgemeshlabs/library-mcp](https://github.com/forgemeshlabs/library-mcp) - A paid public-domain knowledge base for AI agents: full-text search, book metadata, chapters.
